@@ -1,0 +1,33 @@
+[*] running method core_negotiate_tlv_encryption
+[*] Negotiating TLV encryption
+[*] RSA key: 30820122300d06092a864886f70d01010105000382010f003082010a0282010100c91d10fea896683fcc041a124ae1c8707eb8bbf77b86b81fe1de7f9b5e46dceb2660c0879d4abe8f95412deaf2cfde79e4b1b98e11833ac51c9eca350b64cc4854996e75a5ffe2850692f22d23153c441013cbe668c7d0619d449d978163ac5c6f6cd16d3d87f9cf4a4e50ef370635370bd641758b621cbc21f1f1caeff6a190e3d48a25ed3867c167fac115f647eb71a7f65d095340b6a90d8f4593e650610a92bed7b49919d9d2e3b67ad442e15980b6eabe22de3e591a00b813fd161e301297cdee3ce0a2f8921764cb60921abfb8b6195e9448ddb89166afc0a25a789b710ed65b588c1374ecbfb79eed955eab519f0f10effa67ed2766d8d8e405312f390203010001
+[*] AES key: 0x360c8a97f3c12e4530c49b476a9fe16374629bb1e2c4203f7d84db22b4cc5b5b
+[*] Encrypted AES key: 0x8bfecff89f49b6c09a8106e6d7143ce0541d265dd4480aca3b14c98d5c4a61d8f39c1a75fcc26c62d5d1eede529665e2760b1c4df6d085ee44313d35730382f14472be59273060e541d976c471ba37b3ebec25c1dacbb7d472ed36ae840967e43280e65096f8485e427b7883d3f1e71f05157b8a1133c4a51095013db1e011f27645e7e6e39ceff8f6bed3387da91ec1d0f7b86b074ae29b48e5996790176bcef4d79a9f36069985a3a725f7372a572ef153cce61ae3c1346c2873d0e6630c37ca94c7810ec59fc6acbb8283b617c9230a3f20a38f643987506d401f84463f026bec44641eb936cab7cfea4a4cffc16c69b078c1a01eae110da92e6dea6f29ab
+[*] TLV encryption sorted
+[*] sending response packet
+[*] running method core_set_session_guid
+[*] sending response packet
+[*] running method core_enumextcmd
+[*] sending response packet
+[*] running method core_enumextcmd
+[*] sending response packet
+[*] running method core_loadlib
+[*] sending response packet
+[*] running method stdapi_fs_getwd
+[*] sending response packet
+[*] running method stdapi_sys_config_getuid
+[*] sending response packet
+[*] running method stdapi_sys_config_sysinfo
+[*] sending response packet
+[*] running method core_set_uuid
+[*] sending response packet
+[*] running method stdapi_net_config_get_interfaces
+[*] sending response packet
+[*] running method stdapi_net_config_get_routes
+[*] sending response packet
+[*] running method core_enumextcmd
+[*] failed to lookup id for command string: channel_open_stdapi_fs_file
+[*] failed to lookup id for command string: channel_open_stdapi_net_tcp_client
+[*] failed to lookup id for command string: channel_open_stdapi_net_tcp_server
+[*] failed to lookup id for command string: channel_open_stdapi_net_udp_client
+[*] sending response packet
